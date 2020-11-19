@@ -1,0 +1,3 @@
+[submodule "FOODAPP"]
+	path = FOODAPP
+	url = https://github.com/MeghanaMunaga/Basic-Angularapp.git
